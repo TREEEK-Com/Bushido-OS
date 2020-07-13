@@ -1,0 +1,52 @@
+{
+  "plot":"",
+  "title":"",
+  "original-title":"",
+  "director":"",
+  "trailer":"",
+  "rating":"",
+  "year":"",
+  "imdb-id":"",
+  "tmdb-id":"",
+  "premiered":"",
+  "duration":"",
+  "studio":"",
+  "art":{
+    "poster":"",
+    "fanart":"",
+  },
+  "country":"",
+  "genre":[],
+  "art":{},
+  "fileinfo":{
+    "video":{
+      "codec":"",
+      "micodec":"",
+      "bitrate":"",
+      "width":"",
+      "height":"",
+      "aspect":"",
+      "aspectratio":"",
+      "framerate":"",
+      "language":"",
+      "scantype":"",
+      "default":"",
+      "forced":"",
+      "duration":"",
+      "durationin-seconds":"",
+    },
+    "audio":{
+      "codec":"",
+      "micodec":"",
+      "bitrate":"",
+      "language":"",
+      "scantype":"",
+      "channels":"",
+      "samplingrate":"",
+      "default":"",
+      "forced":"",
+
+    }
+  }
+
+}

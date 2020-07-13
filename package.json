@@ -1,0 +1,37 @@
+{
+  "name": "Bushido-OS",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/TREEEK-Com/Bushido-OS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TREEEK-Com/Bushido-OS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TREEEK-Com/Bushido-OS/issues"
+  },
+  "homepage": "https://github.com/TREEEK-Com/Bushido-OS#readme",
+  "dependencies": {
+    "@fullcalendar/core": "^5.1.0",
+    "@fullcalendar/daygrid": "^5.1.0",
+    "@primer/octicons": "^10.0.0",
+    "alertifyjs": "^1.13.1",
+    "bootstrap": "^4.5.0",
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "bootstrap4-toggle": "^3.6.1",
+    "feather-icons": "^4.28.0",
+    "fullcalendar": "^5.1.0",
+    "fullcalendar-scheduler": "^5.1.0",
+    "jquery": "^3.5.1",
+    "open-iconic": "^1.1.1",
+    "plyr": "^3.6.2",
+    "popper.js": "^1.16.1",
+    "push.js": "^1.0.12"
+  }
+}
