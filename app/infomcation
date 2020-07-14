@@ -1,0 +1,13 @@
+The Files HTML And CSS And JS  Build To GUI
+App :
+ This Main GUI or UI and XE
+ The Structural of APP
+ assets: The Files to NPM or CSS Or JS Fonts - Icons and Brand
+        Brand: Its Brand Logo OF App and Name
+        CSS: bootstrap files
+             dashboard Files for examples
+             app the class CSS all code build here
+        Fonts: Fonts fmaily name
+        icons: Icons files SVG
+        JS : app Files class and funcation  Javescript
+              Bootstrap files all js 

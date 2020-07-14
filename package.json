@@ -33,5 +33,10 @@
     "plyr": "^3.6.2",
     "popper.js": "^1.16.1",
     "push.js": "^1.0.12"
+  },
+  "devDependencies": {
+    "electron": "^9.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
   }
 }
